@@ -77,3 +77,5 @@ Seeder menambahkan tiga kategori dan enam buku contoh. Buka [http://127.0.0.1:80
 5. Pilih **Reset**; daftar lengkap tampil kembali tanpa nilai filter.
 
 Tampilan memakai Bootstrap dan Tailwind CSS melalui CDN; koneksi internet diperlukan untuk memuat aset antarmuka. Lihat catatan pada [README utama](../README.md#tampilan).
+
+//good thankyou mjamilsalama
